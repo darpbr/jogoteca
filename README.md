@@ -2,6 +2,29 @@
 
 Projeto criado como base para treinamentos dos cursos da **ALURA**
 
+## Ambiente
+
+1. Linux Ubuntu 22.04
+2. VSCode 1.84.4
+3. Python 3.10.12
+
+## Desenvolvendo a aplicação
+
+:warning: 
+Utilizar ambiente virtual para desenvolvimento
+:warning:
+
+1. `python3 -m venv venv`
+2. `source venv/bin/activate`
+
+Antes de começar o projeto é necessário instalar as dependências da aplicação rodando o comando: 
+
+`pip install requirements.txt`
+
+## Rodando o aplicativo
+
+Para executar o palicativo devemos rodar o comando: `python codigo/jogoteca.py` e acessar o endereço `localhost:5000/inicio` no navegador
+
 ## Testes
 
 Comandos para rodar os testes
