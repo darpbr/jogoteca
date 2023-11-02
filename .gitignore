@@ -1,5 +1,7 @@
 # ignorando pasta de ambiente virtual
+.gitignore
 
+/.venv
 .venv
 ./venv
 /venv
