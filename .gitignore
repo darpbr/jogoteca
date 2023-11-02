@@ -1,0 +1,5 @@
+# ignorando pasta de ambiente virtual
+
+.venv
+./venv
+/venv
